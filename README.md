@@ -1,14 +1,25 @@
 ![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/lab_19.svg?raw=true)
-# CHAT APP Django,React,Node.js,REST API
+# Практическое задание на фреймворке Django.
+## Project: Дополнить функционал CRM для администрации.
+
+![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/CRM_2/2.jpg?raw=true)
 
 
-![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/Chatapp/1.png)
+#### 1. Добавьте кнопки действий для удаления и обновления информации из веб-интерфейса.
+![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/CRM_2/3.jpg?raw=true) 
 
-#### 1.	Настройте требования к проекту: Django, REST framework, JWT
+#### 2. Выведите список студентов , менторов и групп в виде таблицы на главной странице (или на другой отдельной странице).
 
-#### 2. Создайте собственную систему аутентификации пользователей с интеграцией REST framework
+![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/CRM_2/4.jpg?raw=true)
 
-#### 3.	Создайте модель, контроллер и URL-адреса для приложения аутентификации user_control_app
+![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/CRM_2/5.jpg?raw=true)
 
-#### 4.	Добавьтe функции тестирования в test.py для аутентификации и ее интеграции с REST framework
+#### Страницы для регистрации новых студентов.
 
+#### 1. Регистрация новых студентов, менторов, групп и добавление нового урока из фронтенда. 
+
+![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/CRM_2/1.jpg?raw=true)
+
+#### 2. Добавление кнопок для действий для удаления и обновления информации из веб-интерфейса.
+
+![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/CRM_2/4.jpg?raw=true)
