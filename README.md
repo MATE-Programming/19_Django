@@ -1,4 +1,4 @@
-![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/lab_17.svg?raw=true)
+![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/lab_18.svg?raw=true)
 # Практическое задание на фреймворке Django.
 ## Project: Дополнить функционал CRM для администрации.
 
